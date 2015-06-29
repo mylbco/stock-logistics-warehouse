@@ -35,6 +35,7 @@ After validation, a purchase order with 2 products will be created.
 Usage
 =====
 
+You have to check 'Use MTO+MTS rules' on your warehouse. 
 You have to choose the mts+mto route on the product form.
 You should not choose both mts+mto route and mto route.
 
